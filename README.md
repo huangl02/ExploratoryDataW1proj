@@ -1,1 +1,1 @@
-# ExploratoryDataW1proj
+# Exploratory Data Analysis Week1 Course Project
